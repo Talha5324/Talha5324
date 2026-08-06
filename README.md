@@ -1,16 +1,35 @@
-## Hi there 👋
+# Muhammad Talha Shahzad — Portfolio
 
-<!--
-**Talha5324/Talha5324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal portfolio site built as a single self-contained HTML file (no build step, no dependencies to install).
 
-Here are some ideas to get you started:
+**Live site:** https://talha5324.github.io/talha-portfolio/ *(update this link once Pages is enabled)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+MERN stack developer expanding into AI/ML, technical educator, and President of the IT & Computing Society. This site covers:
+
+- About & background
+- Skills (Web Development, AI/ML & Data, Programming Languages, Productivity)
+- Selected projects (School Management System, Daily Form Management System, Accounts Management System)
+- Education & leadership timeline
+- Contact
+
+## Tech
+
+- Plain HTML/CSS/JS — no framework, no build tools
+- Fonts: Space Grotesk, Inter, JetBrains Mono (Google Fonts)
+- Fully responsive (mobile, tablet, desktop)
+
+## Running locally
+
+Just open `index.html` in any browser — no server required.
+
+## Deployment
+
+Hosted via GitHub Pages, deployed from the `main` branch, root folder. Any push to `main` updates the live site within about a minute.
+
+## Contact
+
+- Email: ottalha6@gmail.com
+- GitHub: [@Talha5324](https://github.com/Talha5324)
+- LinkedIn: [talha-shahzad](https://www.linkedin.com/in/talha-shahzad-33b354238)
